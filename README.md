@@ -16,7 +16,8 @@ This is a **Spring Boot** project that manages a **Digital Library** using **Pos
 - **Version Control:** Git, GitHub  
 
 ## 📂 Project Structure  
-digital-library/ │── src/main/java/com/example/digital_library/ │ ├── controller/ # REST API Controllers
+digital-library/ │── src/main/java/com/example/digital_library/ 
+│ ├── controller/ # REST API Controllers
 │ ├── model/ # Entity classes
 │ ├── repository/ # Database repositories
 │ ├── service/ # Business logic services
